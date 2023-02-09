@@ -6,11 +6,11 @@ For this exercise we are going to code a prediction model for the serious advers
 
 ## Requirements
 
-There is a `requirements.txt` available generated using `pipreqs` install the required libraries to run the exercise without any problem.
+There is a `requirements.txt` available generated using `pipreqs` to install the required libraries to run the exercise without any problem.
 
 ## Notebooks
 
 There are two notebooks in this project:
 
-- *1 - Data Gathering*: Run it  to generate the subsample of interest in this exercise using the FDA API. You may skip running this notebook and use the subsample in this repository.
+- *1 - Data Gathering*: Run it to generate the subsample of interest in this exercise using the FDA API. You may skip running this notebook and use the subsample in this repository.
 - *2 - Analysis using ML*: The notebook used to analyze the dataset.
